@@ -1,6 +1,6 @@
 ./node_modules/.bin/autoprefixer-cli -o main.prefixed.css main.css
 
-./node_modules/.bin/nu-html-checker
+./node_modules/.bin/nu-html-checker index.html
 
 
 
