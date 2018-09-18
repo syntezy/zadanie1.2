@@ -1,9 +1,6 @@
-autoprefixer-cli -o main.prefixed.css main.css
+./node_modules/.bin/autoprefixer-cli -o main.prefixed.css main.css
 
- Usage: cli [options] <files/urls ...>
+./node_modules/.bin/nu-html-checker
 
-  Options:
 
-    -h, --help                   output usage information
-    -V, --version                output the version number
-    -f, --formatter <formatter>  Choose the formatter to use. (stylish, json)
+
